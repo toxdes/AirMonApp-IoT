@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_4e16a8ad9dca7ddd2fa0c13a471fcdc54fa1eb3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\jsr305-3.0.0_87aa0b70832b711d1da565abdbc75ee7901a76a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-base-1.3.0_131b1b1fcc0dec22d8d5443e1a2eb71770830ee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\okio-1.13.0_22211c53556055ff485a9f31c084b232743c9fbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.0.1_f8b2471721901c22a3e1d258428c7a6dfe823ccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.0.0_e8218080c7bd0737c8cb1d34848e23aeca876a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5d5bff83f014d616d74c4e57cca3119ad1671d42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-10.0.1_885ff0656c06bf6c36a28c182eb7e5fa8d52333b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fresco-1.3.0_4fa4fea3620066403b6b28b5dd26a9a3a7c59a54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\okhttp-3.6.0_28102b379b1769a22c9c674691c3436351012b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\android\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\support-annotations-24.0.0_8f055204f12851c35d4878f96c4f61a5ce21895a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\javax.inject-1_80b4d53de79fe780b1542043da0a56529a2c00cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.facebook.react-react-native-0.55.4_08cb7dfed70da8998342c2e23a4a37347246a7c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\staticlayout-proxy-1.0_21346720ee7cd39f9aa870de4165a9ab4874c5a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-1.3.0_51dfe81b7a73e299d7c345569015954d1c6be93e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\internal_impl-24.0.0_55f0160c5c7ee9be73ee35ebe404bd3fb729b9a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\AirMonApp2\react-native-notifications\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="87af0ece22bb7d6cb0a018cbd962a8019db0c6e7">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\debug\AirMonApp2-react-native-notifications-unspecified_c9f04b8015a56ea1d234a62c2e83cf071a4fcf47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\bolts-tasks-1.4.0_7f74e7d4a49ebb26beeac757f93649458b786e2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-10.0.1_183b5791065daaee401491c8076d2239c3a923a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\infer-annotations-4.0_5b100ce40f931dcbbdf597356b0c8968603c42bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-10.0.1_6faec0bd5c405b0a33c25973ba269eced8adf660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\AirMonApp2\react-native-svg\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="213daa5f117f366faa1d94ca43e044922c765112">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\AirMonApp2-react-native-svg-unspecified_5f87c9f6f1014b9709b6b871a79ea15addb2f29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fbcore-1.3.0_f8b04d8ddec58d8a039870f6daf9fb1d7a9534b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-drawee-1.3.0_6f5ff804d9dc9739dbc1c37f2d47eb48a999ce5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-10.0.1_68e525b94443323cd3d60a2926922ab17f301797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-iid-10.0.1_6c458c66b967448dc849b90fb01acc171da034b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\okhttp-urlconnection-3.6.0_ffbf4542475a016fa4f48dbb8c0618686e66f197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\com.facebook.soloader-soloader-0.1.0_73fec51ef30fa8ca4614466fd5c8f2655c26dff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\exploded-aar\AirMonApp2\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="C:\Users\ToxicDesire\Documents\AirMonApp2\android\app\build\intermediates\pre-dexed\release\AirMonApp2-react-native-vector-icons-unspecified_2397f68bce65a893aef37317614eee5e8b73a15c.jar" />
+    </item>
+
+</items>
